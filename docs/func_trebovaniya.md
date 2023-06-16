@@ -13,4 +13,4 @@
 | Удалить товар из избранного | Пользователь может удалить товар из избранного. |
 
 # Диаграмма вариантов использования для иллюстрации функциональных требований
-![Use-case diagram](https://github.com/fpmi-tp2023/labrabota10pr1-quantumquartet/blob/main/Diagrams/UseCaseDiagram.jpg)
+![Use-case diagram](https://github.com/fpmi-tp2023/labrabota10pr1-quantumquartet/blob/main/Diagrams/UseCaseDiagram.jpg?raw=true)
